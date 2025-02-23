@@ -1,2 +1,2 @@
-# TimelessJewelery
-Jewelery world
+# TimelessJewelry
+Jewelry world
