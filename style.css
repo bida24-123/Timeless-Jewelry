@@ -1,0 +1,9 @@
+h1{
+  text-align: center;
+}
+.navbar ul{
+  list-style-type: none;
+  background-color: navy;
+  padding: 10px;
+  
+}
