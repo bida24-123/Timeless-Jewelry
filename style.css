@@ -9,11 +9,11 @@
 <link rel="stylesheet" href="styles.css">
 body {
 
-font-family: Arial, sans-serif;
+font-family: Italic, Olive Village;
 
 color: #333;
 
-background-color: #f9f9f9;
+background-color: #202A44;
 
 margin: 0;
 
@@ -24,7 +24,7 @@ line-height: 1.6;
 }
 header {
 
-background-color: #4CAF50;
+background-color: #c0c0c0;
 
 color: white;
 
@@ -103,7 +103,7 @@ font-size: 1.1em;
 
 a {
 
-color: #4CAF50;
+color: #c0c0c0;
 
 text-decoration: none;
 
@@ -118,7 +118,7 @@ text-decoration: underline;
 
 img {
 
-border: 5px solid #4CAF50;
+border: 5px solid #c0c0c0;
 
 border-radius: 10px;
 
