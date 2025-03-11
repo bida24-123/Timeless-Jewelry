@@ -132,7 +132,7 @@ font-weight: bold;
 
 }
 .about-page, .contact-page {
-    background-image: url('img src="Background1.jpg" alt="jewelry"');
+    background-image: url('Background1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
